@@ -1,5 +1,5 @@
 # Cotizador de Préstamos React
-## <a href="https://cotizadorprestamosreact.onrender.com" target="_blank" rel="noopener noreferrer">APP</a>
+## <a href="https://cotizador-prestamos-react-theta.vercel.app" target="_blank" rel="noopener noreferrer">APP</a>
 
 Proyecto realizado con React, Vite, TailwindCss, PostCss y AutoPrefixer.
 
